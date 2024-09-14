@@ -1,2 +1,3 @@
 # Portfolio
 Olá, sou estudante de economia, tenho grande interesse por teoria econômica e análise de dados. Durante a graduação realizei Iniciação Científica (IC) sob orientação do professor Doutor Veneziano Araújo na área de economia da inovação. Na IC foi realizada uma análise do perfil tecnológico da Região de influência da cidade de São Paulo por meio de uma análise de dados de patentes.
+Esse portfólio (em desenvolvimento) tem o intuito de demonstrar minhas habilidades em análise de dados. Atualmente, tenho preferências por vagas que envolvam análise de dados/data science, vaga em empresa do setor financeiro ou vagas que envolvam tecnologia.
